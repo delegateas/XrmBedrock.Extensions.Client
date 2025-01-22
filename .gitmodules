@@ -1,0 +1,3 @@
+[submodule "external/XrmBedrock"]
+	path = external/XrmBedrock
+	url = https://github.com/delegateas/XrmBedrock
